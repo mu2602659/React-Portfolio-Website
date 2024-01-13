@@ -122,7 +122,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Flahore&psig=AOvVaw33ZMQqyfLxsykrP7iqlqdl&ust=1705237972604000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCIDf2ti42oMDFQAAAAAdAAAAABAE",
+    "img": "./images/Uzdoc.jpg",
     "description": "A hospital management system for efficient patient care.",
     "link": "https://github.com/mu2602659/Uzdoc-Hospital-Management-System"
 },
