@@ -19,7 +19,7 @@ const dataabout = {
     title: "Muhammad Uzair",
     aboutme: "Hello, I'm Muhammad Uzair – a passionate and dedicated Information Engineering Technology student at Superior University. With a solid foundation in computer science since my matriculation at The Spirit School, I've honed my skills in HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js, C++, and Oracle. My heart lies in web development, and the MERN stack is where I thrive. During my educational journey, I've complemented my theoretical knowledge with real-world experience. I've immersed myself in the industry through internships, spending 6 months as a data engineer at AI Studio and gaining valuable insights as a frontend developer and React.js developer during shorter stints. Freelancing has been my playground, where I've translated my skills into practical solutions. From crafting engaging landing pages to dynamic web applications using React.js, I've explored the vast landscape of web development. Currently delving into the realms of Node.js, Express.js, and MongoDB, I'm focused on expanding my expertise. My sights are set on my final year project – an innovative mobile app for service providers developed on React Native. Join me on my journey as I combine passion with proficiency, turning ideas into immersive digital experiences. Let's create something extraordinary together.",};
 
-export    const interest = [
+    const interest = [
     {
         language: "MERN Stack",
         
@@ -122,15 +122,15 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    "img": "/images/Uzdoc.png",
+    "img": "./images/Uzdoc.jpg",
     "description": "A hospital management system for efficient patient care.",
-    "link": "https://mu2602659.github.io/Uzdoc-Hospital-Management-System/"
+    "link": "https://github.com/mu2602659/Uzdoc-Hospital-Management-System"
 },
 
     {
-   "img": "/images/portfolio.png",
+    "img": "./images/portfolio.jpg",
         description: "A portfolio web design with innovative solutions.",
-        link: "https://mu2602659.github.io/UZAIRTECH.com/"
+        link: "https://github.com/mu2602659/UZAIRTECH.com"
     },
     ];
 
@@ -155,6 +155,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
+    interest,
     worktimeline,
     skills,
     services,
