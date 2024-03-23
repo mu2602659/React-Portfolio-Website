@@ -140,9 +140,9 @@ const contactConfig = {
     description: "Let's connect! Reach out for collaborations, inquiries, or just to say hello. I'm eager to discuss how we can turn your ideas into digital realities. ",
     // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_1l6bhzy",
+    YOUR_TEMPLATE_ID: "template_og6k637",
+    YOUR_USER_ID: "lh-xrG_vePX4rKQn9",
 };
 
 const socialprofils = {
@@ -150,6 +150,7 @@ const socialprofils = {
     facebook: "https://www.facebook.com/MalixxUzair?mibextid=kFxxJD",
     linkedin: "https://www.linkedin.com/in/muhammad-uzair-858753259",
     instagram: "https://www.instagram.com/_uzair.x_36?igsh=MWxzdHBmYnA0b251aw==",
+    youtube: "https://www.youtube.com/channel/UCdaa3GGMq_Y9U9UAg782Qiw"
 };
 export {
     meta,
